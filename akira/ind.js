@@ -19,7 +19,7 @@ exports.lvlnul = () => {
 }
 
 exports.baned = () => {
-	return`*LU KE BAN NJIRR LU KEK KONTOL SI*`
+	return`*LU KE BAN NJIRR AOWKAOWKAOWK*`
 }
 
 exports.lvlnoon = () => {
@@ -83,7 +83,7 @@ exports.pc = () => {
 }
 
 exports.registered = (namaUser, umurUser, serialUser, time, sender) => {
-	return`*「 DATA USER」*\n\nkamu sudah terdaftar dengan data \n\n┏━➤nama\n┗➤${namaUser}\n┏━➤nomer\n┗➤wa.me/${sender.split("@")[0]}\n┏━➤umur\n┗➤${umurUser}\n┏━➤waktu pendaftaran\n┗➤${time}\n\n┏━❉ *NS* ❉━\n┣⊱${serialUser}\n┗➤NOTE : jangan sampai lupa save nomor admin Akira Bot Dan Jangan Lupa Untuk Ketik ${prefix}rules sebelum memulai botnya ya😁`
+	return`*「 DATA USER」*\n\nkamu sudah terdaftar dengan data \n\n┏━➤nama\n┗➤${namaUser}\n┏━➤nomer\n┗➤wa.me/${sender.split("@")[0]}\n┏━➤umur\n┗➤${umurUser}\n┏━➤waktu pendaftaran\n┗➤${time}\n\n┏━❉ *NS* ❉━\n┣⊱${serialUser}\n┗➤NOTE : jangan sampai lupa save nomor admin T-BOT Dan Jangan Lupa Untuk Ketik ${prefix}rules sebelum memulai botnya ya😁`
 }
 
 exports.owneresce = (pushname) => {
@@ -116,7 +116,7 @@ exports.reglevelahf = (command, pushname, getLevelingLevel, sender, ahf) => {
 
 exports.levelup = (pushname, sender, getLevelingXp,  getLevel, getLevelingLevel) => {
 	return`
-*「 OMEDETOU 」*
+*「 SELAMAT 」*
 ┏𖥻ꦼꦽ➳ *Nama* : ${pushname}
 ┣𖥻ꦼꦽ➳ *Nomer* : wa.me/${sender.split("@")[0]}
 ┣𖥻ꦼꦽ➳ *Xp* : ${getLevelingXp(sender)}
