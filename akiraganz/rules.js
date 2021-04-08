@@ -1,6 +1,6 @@
 const rules = (prefix) => { 
 	return `
-*RULES BAGI PENGGUNA AKIRA BOT*
+*RULES BAGI PENGGUNA 𝐓-𝐁𝐎𝐓 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋*
     
 ➤ Tolong Gunakan Delay Jangan Spam Saat Menggunakan Bot, Mentang Mentang Gratis Diborong semua.
 ➤ Call/VC Bot Auto Block.
