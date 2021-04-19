@@ -53,12 +53,12 @@ const { removeBackgroundFromImageFile } = require('remove.bg')
 const { ind } = require('./akira')
 
 //apikey
-const apivhtear = 'AkiraGithub' // Vhtear Beli Sendiri Yoo
+const apivhtear = 'Adulajalah' // Vhtear Beli Sendiri Yoo
 const ZeksApi = 'apivinz'
 const apileys = 'demo'
 const TobzKey = 'BotWeA'
-const lolhuman = 'AkiraYT' //Free Trial 3 day
-const onlydev = 'YTAkira' //Free Apikey
+const lolhuman = 'erdwpehub28' //Free Trial 3 day
+const onlydev = 'AdulAlhyReal' //Free Apikey
 const xteam = 'AkiraBotWa' //Free Trial 3 day
 const namabot = '𝐓-𝐁𝐎𝐓 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋'
 
@@ -71,7 +71,7 @@ const vcard = 'BEGIN:VCARD\n'  //Jangan diganti,Ntar error
             + 'END:VCARD' // Jangan diganti,Ntar Error
             
 //settings            
-prefix = '/'
+prefix = '!'
 blocked = []   
 limitawal = '50' //Terserah Mo Ganti apa kgk
 memberlimit = 1 //Terserah Mo Ganti apa kgk
